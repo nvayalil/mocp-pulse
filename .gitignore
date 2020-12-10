@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#Ignore directories
+decoder_plugins
+autom4te.cache
+m4
+libltdl
+config.log
