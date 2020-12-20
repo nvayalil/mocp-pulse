@@ -28,7 +28,7 @@ autoreconf.)
 
 To build MOC from a downloaded tarball just type:
 
-        ./configure
+        ./configure --with-pulse
         make
 
 And as root:
