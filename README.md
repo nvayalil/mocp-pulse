@@ -36,3 +36,8 @@ And as root:
         make install
     
 # See README for further information
+
+## CREDITS
+	http://moc.daper.net/
+	https://aur.archlinux.org/packages/moc-pulse/ (pathces)
+
