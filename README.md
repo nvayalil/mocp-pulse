@@ -1,6 +1,7 @@
 ## MOC-Pulse
 
 # MOC Player with PulseAudio
+Note:- This is just a copy of the MOC project (http://moc.daper.net/) with the pathces applied for PulseAudio, See the CREDITS below.
 
 Read PREREQUISITES and install the required libraries
 
@@ -31,9 +32,9 @@ To build MOC from a downloaded tarball just type:
         ./configure --with-pulse
         make
 
-And as root:
+And install
 
-        make install
+        sudo make install
     
 # See README for further information
 
