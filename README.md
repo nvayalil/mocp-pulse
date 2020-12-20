@@ -4,7 +4,7 @@
 
 Read PREREQUISITES and install the required libraries
 
-# Run MOC by typing mocp on terminal
+# Run MOC by typing mocp on the terminal
 
 Create a file config inside the folder ~/.moc, which is created by MOC on its first run, and add the following inside the "config" file
 
